@@ -25,6 +25,17 @@ body {
   gap: 3px;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  color: blue;
+  margin: 10px;
+  width: 50px;
+}
+
 .day {
   width: 125px;
   height: 125px;
