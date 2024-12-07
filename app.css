@@ -39,3 +39,10 @@ body {
 .day:hover {
   background-color: #4f46e5;
 }
+
+.day-number {
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+}
